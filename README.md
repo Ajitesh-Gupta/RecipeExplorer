@@ -1,2 +1,7 @@
-# RecipeExplorer
-This project is a Recipe App built using Jetpack Compose and Retrofit. It fetches recipe categories from "The Meal DB" API and displays them in a grid layout. The app utilizes ViewModel and LiveData for data management and handles loading states and errors gracefully.
+RecipeExplorer: Screen Shots 
+
+<p float="left">
+  <img src="ScreenShots/IMG-2025-04-02 023620.png" alt="FoodRunner Splash Screen" width="30%"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="ScreenShots/IMG-2025-04-02 023659.png" alt="FoodRunner Splash Screen" width="30%"/>
+</p>
